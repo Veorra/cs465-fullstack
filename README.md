@@ -1,5 +1,5 @@
 # cs465-fullstack
-Fullstack wiith the MEAN stack
+Fullstack with the MEAN stack
 
 Architecture
 
