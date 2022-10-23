@@ -4,7 +4,12 @@ Fullstack wiith the MEAN stack
 Architecture
 
     1) Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
-    Why did the backend use a NoSQL MongoDB database?
+    
+Express HTML and Javascript and single page application were used in my full stack project. The frontend of the website used both html and JavaScript. The JavaScript was used for routes, controllers, and models.
+
+    2) Why did the backend use a NoSQL MongoDB database?
+The backend used NoSQL MongoDB in order to store information like login credentials, and trip data. As for the use of NoSQL it was because NoSQL doesnt use schemas therefore making it easier for users to store and modify data.
+
 
 Functionality
 
