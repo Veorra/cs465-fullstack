@@ -19,7 +19,8 @@ JSON differes from JavaScript due to JSON being used primarily for data storage.
     
     2)Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
 
-The main instance
+The main instance of refactored code would be the header and footer being made into partials for the Handlebars and could be called in a file to have them
+display.
 
 Testing
 
