@@ -13,8 +13,13 @@ The backend used NoSQL MongoDB in order to store information like login credenti
 
 Functionality
 
-    2) How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
-    Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+    1) How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
+
+JSON differes from JavaScript due to JSON being used primarily for data storage. JSON cannot include functions within its files therefore only storing data like the trip information in this project. JSON data is what is used to transmit data from the backend of the server to the frontend.
+    
+    2)Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+
+The main instance
 
 Testing
 
