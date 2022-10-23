@@ -24,8 +24,10 @@ display.
 
 Testing
 
-    3) Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+    1) Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+
+API endpoints in this application were used to validate the user and authorize the user to alter the information in the database. These endpoints are also used in combination with certain data related methods such as GET, POST, PUT, and DELETE. Applying security for these endpoints is essential because if there are no security protection features, unauthorized users would be able to make access of them and gain access to all the information held inside the database.
 
 Reflection
 
-    4) How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+    1) How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
