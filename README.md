@@ -31,3 +31,6 @@ API endpoints in this application were used to validate the user and authorize t
 Reflection
 
     1) How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+    
+This course has helped me in my professional development in understanding backend and frontend technologies. Furthermore I have developed a better understanding of html, css, and javascript. In addition to Express, Node.js, and Angular.   
+    
